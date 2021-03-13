@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- Currently working as: SysAdmin / NetAdmin
+- Things I like: DevOps / Automation / Serverless / Linux / Docker / ...
+
+<p align="center">
+  <a href="https://github.com/rz3n?tab=followers">
+    <img src="https://img.shields.io/github/followers/rz3n?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/rfranzen">
+    <img src="https://img.shields.io/twitter/follow/rz3n?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 <!--
 **rz3n/rz3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
