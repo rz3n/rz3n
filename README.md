@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Currently working as: SysAdmin / NetAdmin
-- Things I like: DevOps / Automation / Serverless / Linux / Docker / ...
+- Things I like: Ansible | Automation | DevOps | Docker | Linux | Puppet | Serverless | Terraform
 
 <p align="center">
   <a href="https://github.com/rz3n?tab=followers">
