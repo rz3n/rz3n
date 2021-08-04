@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- Currently working as: SysAdmin / NetAdmin
-- Things I like: Ansible | Automation | DevOps | Docker | Linux | Puppet | Serverless | Terraform
+- 🔭 I'm currently working as: SysAdmin / NetAdmin
+- 😄 Things I like: Ansible | Consul | DevOps | Docker | Linux | Puppet | Serverless | Terraform
+- 🌱 I'm currently learning more about Cloud Architecture and IaC.
 
 <p align="center">
   <a href="https://github.com/rz3n?tab=followers">
