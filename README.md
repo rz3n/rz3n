@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🏠 Living in Calgary AB
-- 🔭 Currently working as: SysAdmin / NetAdmin
-- 😄 Things I like: Ansible | Consul | DevOps | Docker | Linux | Puppet | Serverless | Terraform
+- 🔭 SysAdmin | DevOps enthusiast
+- 😄 Things I like: Ansible | Consul | DevOps | Docker | Linux | Python | Puppet | Serverless | Terraform
 - 🌱 Currently learning more about Cloud Architecture and IaC.
 
 <p align="center">
