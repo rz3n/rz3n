@@ -6,7 +6,9 @@
 - 🌱 Currently learning more about Cloud Architecture and IaC.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rz3n&show_icons=true&theme=dracula" alt="Shubhamdeep's github stats"/>
+  <a href="https://github.com/rz3n"
+     <img src="https://github-readme-stats.vercel.app/api?username=rz3n&show_icons=true&theme=dracula" alt="Shubhamdeep's github stats"/>
+  </a>
 </p>
 
 <p align="center">
