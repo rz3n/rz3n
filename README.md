@@ -3,7 +3,7 @@
 - 🏠 Living in Calgary AB
 - 🔭 SysAdmin | DevOps enthusiast
 - 😄 Things I like: Ansible | Consul | DevOps | Docker | Linux | Python | Puppet | Serverless | Terraform
-- 🌱 Currently learning more about Cloud Architecture and IaC.
+- 🌱 Continuously learning more about Cloud Architecture and IaC.
 
 <p align="center">
   <a href="https://github.com/rz3n">
