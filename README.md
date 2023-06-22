@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🏠 Living in Calgary AB
-- 🔭 Network Admin | DevOps/NetOps enthusiast
-- 😄 Things I like: Ansible | Cisco | Consul | DevOps | Docker | Linux | Mikrotik | Networking | NetOps | Python | Puppet | Serverless | Terraform
+- 🔭 Systems and Network Administrator | Automation | DevOps
+- 😄 Things I like: Ansible | AWS | Cisco | Consul | DevOps | Docker | Linux | Mikrotik | Networking | NetOps | Python | Puppet | Serverless | Terraform
 - 🌱 Continuously learning more about Cloud Architecture and IaC.
 
 <p align="center">
