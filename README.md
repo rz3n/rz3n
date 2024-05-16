@@ -2,7 +2,8 @@
 
 - 🏠 Living in Calgary AB
 - 🔭 Systems and Network Administrator | Automation | DevOps
-- 😄 Things I like: Ansible | AWS | Cisco | Consul | DevOps | Docker | GCP | Linux | Mikrotik | Networking | NetOps | Python | Puppet | Serverless | Terraform
+- 😄 Things I like: Ansible | AWS | Cisco | DevOps | Docker | Fortinet | GCP | Linux | Mikrotik | Networking | NetOps | Python | Puppet | Serverless | Terraform
+- ⚡ Currently studying: Google Kubernetes Engine
 - 🌱 Continuously learning more about Cloud Architecture and IaC.
 
 <!--
