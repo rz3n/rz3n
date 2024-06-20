@@ -1,10 +1,44 @@
-### Hi there 👋
+```yaml
+---
+name:     Ricardo Franzen
+from:     Brazil
+location: Calgary, AB, Canada
 
-- 🏠 Living in Calgary AB
-- 🔭 Systems and Network Administrator | Automation | DevOps
-- 😄 Things I like: Ansible | AWS | Cisco | DevOps | Docker | Fortinet | GCP | Linux | Mikrotik | Networking | NetOps | Python | Puppet | Serverless | Terraform
-- ⚡ Currently studying: Google Kubernetes Engine
-- 🌱 Continuously learning more about Cloud Architecture and IaC.
+contact:
+  email:    rfranzen at gmail.com
+  telegram: t.me/rfranzen
+  
+summary: >
+  That one who likes spending hours automating a two-minute process just for the challenge.
+
+learningMoreAbout:
+  - Cloud Architecture
+  - IaC
+
+skills:
+  programmingLanguages:
+    - Python
+    - PHP
+  tools:
+    - Ansible
+    - ArgoCD
+    - Docker
+    - Git
+    - Kubernetes
+    - Puppet
+    - Terraform
+  cloudProviders:
+    - AWS
+    - Azure
+    - GCP
+
+interests:
+  - Challenging myself
+  - Brazilian Jiu-Jitsu
+  - Mountain Bike XC|XCO|XCM
+  - Open Source
+  - Photography
+```
 
 <!--
 <p align="center">
