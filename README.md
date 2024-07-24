@@ -13,6 +13,7 @@ summary: >
 
 learningMoreAbout:
   - Cloud Architecture
+  - GitOps
   - IaC
 
 skills:
@@ -21,7 +22,7 @@ skills:
     - PHP
   tools:
     - Ansible
-    - ArgoCD
+    - Argo
     - Docker
     - Git
     - Kubernetes
