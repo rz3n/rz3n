@@ -5,28 +5,30 @@
 name:     Ricardo Franzen
 from:     Brazil
 location: Calgary, AB, Canada
+linkedin: linkedin.com/in/ricardofranzen
 
 contact:
   email:    rfranzen at gmail.com
   telegram: t.me/rfranzen
   
 summary: >
-  Curious, proactive, and self-motivated professional with 20 years of IT experience.
+  Curious, proactive learner driven by the challenge of architecting resilient and scalable IT environments.
 
-  DevOps enthusiast, driven by a sense of continuous learning and self-improving.
+  Networking specialist with a strong background in automation, cloud, and DevOps.
 
-  That one who likes spending hours automating a two-minute process just for the challenge.
+  Automation Enthusiast: Spending hours scripting a two-minute task, because why do it manually when you can turn it into a weekend project?
 
 professional:
-  - 20 years of IT experience
+  - Over 15 years of IT experience
+  - Networking nerd
   - DevOps enthusiast
-  - Highly adaptable to new situations and environments
+  - Highly adaptable to new technologies and environments
 
 continuouslyLearningMoreAbout:
   - Cloud Architecture
-  - DevOps
   - GitOps
   - IaC
+  - Networking in general
 
 skills:
   technologiesAndTools:
